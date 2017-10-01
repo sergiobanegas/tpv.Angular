@@ -4,6 +4,7 @@ This is a front-end application made by me, presented as my Final Master Project
 
 The app needs this back-end application in order to works (not made by me):
 https://github.com/miw-upm/SPRING.tpv/releases/tag/tpv-1.0.0
+
 The back-end is a maven project made in Java, which uses MySQL.
 
 My part includes the functionality that a worker of a shop needs on a daily basis. All the components made by made have my name in a @author tag in its top.
