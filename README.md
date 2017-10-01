@@ -8,7 +8,7 @@ The back-end is a maven project made in Java, which uses MySQL.
 
 My part includes the functionality that a worker of a shop needs on a daily basis. All the components made by made have my name in a @author tag in its top.
 
-NOTE: The welcome page is not made by me. The front-end app was made by two people. The other person programmed the admin panel (deleted from this project) and the welcome page.
+NOTE: The welcome page (welcome folder) is not made by me. The front-end app was made by two people. The other person programmed the admin panel (deleted from this project) and the welcome page.
 
 Instructions:
 
