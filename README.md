@@ -6,7 +6,7 @@ The app needs this back-end application in order to works (not made by me):
 https://github.com/miw-upm/SPRING.tpv/releases/tag/tpv-1.0.0
 The back-end is a maven project made in Java, which uses MySQL.
 
-My part includes the functionality that a worker of a shop needs on a daily basis.
+My part includes the functionality that a worker of a shop needs on a daily basis. All the components made by made have my name in a @author tag in its top.
 
 NOTE: The welcome page is not made by me. The front-end app was made by two people. The other person programmed the admin panel (deleted from this project) and the welcome page.
 
