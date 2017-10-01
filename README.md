@@ -7,7 +7,7 @@ https://github.com/miw-upm/SPRING.tpv/releases/tag/tpv-1.0.0
 
 My part includes the functionality that a worker of a shop needs on a daily basis.
 
-NOTE: The welcome page is not made by me. The front-end app was made by two people. The other person programmed the admin panel (deleted in this project) and the welcome page.
+NOTE: The welcome page is not made by me. The front-end app was made by two people. The other person programmed the admin panel (deleted from this project) and the welcome page.
 
 Instructions:
 
